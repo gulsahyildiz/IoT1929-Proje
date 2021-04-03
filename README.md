@@ -1,5 +1,5 @@
-# IoT1929-PROJE
-# RFID ve servo ile kapı kilidi 
+# IoT1929-PROJE RAPORU
+#   RFID ve Servo Motor ile Kapı Kilidi 
 
 Bu projede,
  - Arduino Leonardo 
@@ -18,4 +18,8 @@ kullanarak bir kartlı kapı kilidi yaptık.
 
 > Tanımsız bir kart okutulunca ise LCD ekranda "KART TANIMLANMADI!" uyarısı belirir ve kırmızı led yanar. Servo motor kolu dönmez ve kapı kilitli kalmaya devam eder.
 
+
 *Henüz bir prototip olması nedeniyle gerçek bir kapıya bağlı değil; ancak basit bir kilit değişimiyle ve arduinoyu bilgisayar yerine bir portatif güç kaynağına bağlayarak kilit aktif olarak kullanılabilir. 
+
+
+> Devrenin çalışır video linki: https://drive.google.com/file/d/1Q7NOEqJbaXdS5diJhU6PelEOF1cfPI-j/view?usp=sharing
