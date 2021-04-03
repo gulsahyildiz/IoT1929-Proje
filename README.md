@@ -22,4 +22,4 @@ kullanarak bir kartlı kapı kilidi yaptık.
 *Henüz bir prototip olması nedeniyle gerçek bir kapıya bağlı değil; ancak basit bir kilit değişimiyle ve arduinoyu bilgisayar yerine bir portatif güç kaynağına bağlayarak kilit aktif olarak kullanılabilir. 
 
 
-> Devrenin çalışır video linki: https://drive.google.com/file/d/1Q7NOEqJbaXdS5diJhU6PelEOF1cfPI-j/view?usp=sharing
+> Devrenin çalışır haldeki videosunun linki: https://drive.google.com/file/d/1Q7NOEqJbaXdS5diJhU6PelEOF1cfPI-j/view?usp=sharing
