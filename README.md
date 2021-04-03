@@ -12,7 +12,7 @@ Bu projede,
 
 kullanarak bir kartlı kapı kilidi yaptık. 
 
-> Projenin amacı herhangi bir kapıyı sadece erişimi olan insanların açabilmesine izin vererek kişisel alanın korunmasını sağlamaktır.
+*Projenin amacı herhangi bir kapıyı sadece erişimi olan insanların açabilmesine izin vererek kişisel alanın korunmasını sağlamaktır.
 
 > Tanımlı bir kart okutulunca LCD ekranda "GİRİŞ BAŞARILI. HOŞ GELDİNİZ!" yazısı belirir ve yeşil led yanar. Ardından servo motorun kolu 90 derece dönerek kapının açılmasına izin verir.
 
